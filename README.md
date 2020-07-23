@@ -5,10 +5,10 @@
 ~~~ 
 
 The Caché / Ensemble standard distribution contains in namespace SAMPLES    
-a nice example of a CSP page consuming WebService as Client.
+a nice example of a CSP page consuming WebService as Client.  
 I have modified it not only to display the replies but to feed it back into a Global.   
 I used the classic Hyperevent to achieve this. 
-The replies end up as a log in ^WSREPLY.
+The replies end up as a log in global^WSREPLY.
 When there is no input anymore the page closes and goes away.
 
 There are 2 versions with visible and hidden display during operation.
