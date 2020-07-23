@@ -8,15 +8,15 @@ The Caché / Ensemble standard distribution contains in namespace SAMPLES
 a nice example of a CSP page consuming WebService as Client.  
 I have modified it not only to display the replies but to feed it back into a Global.   
 I used the classic Hyperevent to achieve this. 
-The replies end up as a log in global^WSREPLY.
-When there is no input anymore the page closes and goes away.
+The replies end up as a log in global^WSREPLY.  
+When there is no input anymore the page closes and goes away.  
 
-There are 2 versions with visible and hidden display during operation.
-_WSCSP.reverseVerbose.cls_ and _WSCSP.reverseHidden.cls_
+There are 2 versions with visible and hidden display during operation.   
+_WSCSP.reverseVerbose.cls_ and _WSCSP.reverseHidden.cls_  
 
-The message to send is simply passed as hash after the CSP_URL. (Mind URL encoding!)
+The message to send is simply passed as hash after the CSP_URL. (Mind URL encoding!)  
 
-You can launch the page using a command pipe or $zf(-1,...) or similar for newer versions
+You can launch the page using a command pipe or $zf(-1,...) or similar for newer versions  
 directly out of your application or from command line.
 ```
  /// find your browser location
