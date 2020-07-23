@@ -12,7 +12,7 @@ The replies end up as a log in ^WSREPLY.
 When there is no input anymore the page closes and goes away.
 
 There are 2 versions with visible and hidden display during operation.
-_websocketreverseV.csp_ and _websocketreverseH.csp_
+_WSCSP.reverseVerbose.cls_ and _WSCSP.reverseHidden.cls_
 
 The message to send is simply passed as hash after the CSP_URL. (Mind URL encoding!)
 
@@ -22,7 +22,7 @@ directly out of your application or from command line.
  /// find your browser location
  set browser="""C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"" "
  /// don't forget the # at the end
- set page="http://localhost:57772/csp/samples/websocketreverse.csp#"
+ set page="http://localhost:57772/csp/samples/WSCSP.reverseVerbose.cls#"
  /// whatever you send to the server
  set msg="helloALL"
  /// a CPIPE device
