@@ -3,7 +3,7 @@
   <Document name="wscsp-client.ZPM">
     <Module>
       <Name>wscsp-client</Name>
-      <Version>1.0.0</Version>
+      <Version>1.0.1</Version>
       <Description>external WebSocket client CSP based</Description>
       <Keywords>CSP, WebSocket, COS</Keywords>
       <Packaging>module</Packaging>
