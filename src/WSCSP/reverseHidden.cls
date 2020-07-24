@@ -1,4 +1,4 @@
-Class WSCSP.reverseHiddenExtends %CSP.Page [ Not ProcedureBlock ]
+Class WSCSP.reverseHidden Extends %CSP.Page [ Not ProcedureBlock ]
 {
 
 ClassMethod OnPage() As %Status
