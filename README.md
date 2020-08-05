@@ -24,7 +24,7 @@ directly out of your application or from command line.
  /// don't forget the # at the end
  set page="http://localhost:57772/csp/samples/WSCSP.reverseVerbose.cls#"
  /// whatever you send to the server
- set msg="helloALL"
+ set msg="hello ALL"
  /// a CPIPE device
  set dev="|CPIPE|22"
 
@@ -38,7 +38,7 @@ directly out of your application or from command line.
  ```
 
 ^WSREPLY(34)=$lb("2019-02-08 18:03:11","Welcome to Cache WebSocket. NameSpace: SAMPLES")
-^WSREPLY(35)=$lb("2019-02-08 18:03:11","'helloALL' (length=8) recieved on 08 Feb 2019 at 06:03:11PM NameSpace=SAMPLES")
+^WSREPLY(35)=$lb("2019-02-08 18:03:11","'hello ALL' (length=9) recieved on 08 Feb 2019 at 06:03:11PM NameSpace=SAMPLES")
 ^WSREPLY(36)=$lb("2019-02-08 18:03:21","Timeout after 10 seconds occurred on 08 Feb 2019 at 06:03:21PM")
 ^WSREPLY(37)=$lb("2019-02-08 18:03:31","Timeout after 10 seconds occurred on 08 Feb 2019 at 06:03:31PM")
 ^WSREPLY(38)=$lb("2019-02-08 18:03:41","Timeout after 10 seconds occurred on 08 Feb 2019 at 06:03:41PM")
