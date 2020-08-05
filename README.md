@@ -46,3 +46,5 @@ directly out of your application or from command line.
  
  ```
 This is just a starting point to be adapted to you individual needs.
+
+[Article in DC](https://community.intersystems.com/post/client-websockets-based-csp)
