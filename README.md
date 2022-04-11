@@ -42,3 +42,8 @@ directly out of your application or from command line.
 This is just a starting point to be adapted to you individual needs.
 
 [Article in DC](https://community.intersystems.com/post/client-websockets-based-csp)
+        
+**Code Quality**   
+<img width="85%" src="
+https://openexchange.intersystems.com/mp/img/packages/671/screenshots/4bh7tyapellnv0cjgw34riapcfo.jpg
+">
