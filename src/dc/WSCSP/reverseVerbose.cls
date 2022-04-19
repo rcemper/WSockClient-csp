@@ -1,4 +1,4 @@
-Class WSCSP.reverseVerbose Extends %CSP.Page [ Not ProcedureBlock ]
+Class dc.WSCSP.reverseVerbose Extends %CSP.Page [ Not ProcedureBlock ]
 {
 
 ClassMethod OnPage() As %Status
