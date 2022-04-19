@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Export generator="Cache" version="25">
-  <Document name="wscsp-client.ZPM">
+  <Document name="wscsp-client-dc.ZPM">
     <Module>
-      <Name>wscsp-client</Name>
+      <Name>wscsp-client-dc</Name>
       <Version>1.0.3</Version>
       <Description>Extended CSP page consuming WebService as Client</Description>
       <Keywords>CSP, WebSocket, COS</Keywords>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
-       <Resource Name="WSCSP.PKG"/>
+       <Resource Name="dc.WSCSP.PKG"/>
     </Module>
   </Document>
 </Export>
