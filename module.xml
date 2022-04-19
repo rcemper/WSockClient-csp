@@ -3,7 +3,7 @@
   <Document name="wscsp-client-dc.ZPM">
     <Module>
       <Name>wscsp-client-dc</Name>
-      <Version>1.0.3</Version>
+      <Version>1.0.5</Version>
       <Description>Extended CSP page consuming WebService as Client</Description>
       <Keywords>CSP, WebSocket, COS</Keywords>
       <Packaging>module</Packaging>
