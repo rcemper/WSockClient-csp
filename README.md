@@ -16,7 +16,7 @@ directly out of your application or from command line.
  /// find your browser location
  set browser="""C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"" "
  /// don't forget the # at the end
- set page="http://localhost:57772/csp/samples/WSCSP.reverseVerbose.cls#"
+ set page="http://localhost:57772/csp/irisapp/dc.WSCSP.reverseVerbose.cls#"
  /// whatever you send to the server
  set msg="hello ALL"
  /// a CPIPE device
