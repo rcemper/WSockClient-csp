@@ -6,7 +6,7 @@ The replies end up as a log in global^WSREPLY.
 When there is no input anymore the page closes and goes away.  
 
 There are 2 versions with visible and hidden display during operation.   
-_WSCSP.reverseVerbose.cls_ and _WSCSP.reverseHidden.cls_  
+_dc.WSCSP.reverseVerbose.cls_ and _dc.WSCSP.reverseHidden.cls_  
 
 The message to send is simply passed as hash after the CSP_URL. (Mind URL encoding!)  
 
@@ -40,6 +40,8 @@ directly out of your application or from command line.
  
  ```
 This is just a starting point to be adapted to you individual needs.
+
+With Docker it might be hard to start a browwser. ZPM is preferred.
 
 [Article in DC](https://community.intersystems.com/post/client-websockets-based-csp)
         
