@@ -45,5 +45,3 @@ With Docker it might be hard to start a browser. ZPM is preferred.
 
 [Article in DC](https://community.intersystems.com/post/client-websockets-based-csp)
         
-**Code Quality**   
-<img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/1765/screenshots/ccdboc3nb5ta8mmgtetsitd23o.jpg">
