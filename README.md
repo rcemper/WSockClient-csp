@@ -1,3 +1,5 @@
+<p align="right"><img src="https://github.com/isc-at/CPIPE/blob/master/archived.jpg"/></p>
+
 The Caché / Ensemble standard distribution contains in namespace SAMPLES    
 a nice example of a CSP page consuming WebService as Client.  
 I have modified it not only to display the replies but to feed it back into a Global.   
